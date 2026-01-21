@@ -4,6 +4,13 @@
 	color: white;
 }
 
+#aim {
+	margin: 0;
+	padding: 0;
+	width: 450px;
+	border: 2px, solid black;
+}
+
 body {
 	margin: 0;
 	padding: 0;
@@ -16,8 +23,10 @@ body {
 main {
 	font-family: sreda, sans-serif;
 	color: white;
+	padding: 20px;
 }
 
 footer {
 	text-align: center;
+	color: white;
 }
