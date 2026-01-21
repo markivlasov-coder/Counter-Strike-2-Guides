@@ -1,0 +1,23 @@
+#title {
+	text-align: center;
+	font-family: Stratum, sans-serif;
+	color: white;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background: linear-gradient(rgba(0, 0, 0, 0.3)),
+	url("CS2.webp");	
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+main {
+	font-family: sreda, sans-serif;
+	color: white;
+}
+
+footer {
+	text-align: center;
+}
