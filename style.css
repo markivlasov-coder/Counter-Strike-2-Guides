@@ -18,6 +18,7 @@ body {
 	url("CS2.webp");	
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center;
 }
 
 main {
